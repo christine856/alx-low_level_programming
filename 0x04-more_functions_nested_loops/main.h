@@ -1,7 +1,7 @@
-#ifndef MAIN_H
+i#ifndef MAIN_H
 #define MAIN_H
 
-/**
+
 *main -header file for protoypes
 *int _isupper(int c);
 *int _isdigit(int c);
@@ -14,6 +14,6 @@
 *void print_square(int size);
 *void print_triangle(int size);
 *void print_number(int n);
-*/
+
 
 #endif /* MAIN_H */
