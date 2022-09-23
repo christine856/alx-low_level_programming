@@ -2,7 +2,7 @@
 
 /**
  * _strcmp - Comparing of two strings
- * @s1: first string 
+ * @s1: first string
  * @s2: second string
  * Return: negative int if s1 < s2, 0 if matching, and positive int if s1 > s2
  */
