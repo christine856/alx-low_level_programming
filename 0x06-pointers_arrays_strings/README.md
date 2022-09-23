@@ -1,1 +1,1 @@
-more pointers README.md
+more pointers, arrays and srings for me to learn
