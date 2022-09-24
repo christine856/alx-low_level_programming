@@ -11,7 +11,4 @@ int add(int x, int y)
 {
 	return (x + y);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
+
