@@ -18,6 +18,7 @@ return (wildcard(s5, t6));
 else
 return (test(s5 + 1, s6 + 1, t5, t6));
 }
+
 /**
  *wildcard - checks for the wildcards
  *@s3: string to compare to
@@ -34,6 +35,7 @@ return (wildcard(s3 + 1, s4));
 }
 return (test(s3 + 1, s4 + 1, s3, s4));
 }
+
 /**
  *wildcmp - compares two strings
  *@s1: first string
