@@ -1,11 +1,13 @@
 #include <stdlib.h>
 #include <stdio.h>
+
 /**
  * main - multiplies 2 numbers
  * @argc: number of arguments
  * @argv: arguments supplied
  * Return: result or 1 if it doesnt receive 2 arguments
  */
+
 int main(int argc, char *argv[])
 {
 int a = 0, b = 0;
